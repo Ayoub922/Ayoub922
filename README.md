@@ -13,7 +13,7 @@
 
 ## Software
 
-![logoC](https://github.com/Ayoub922/Ayoub922/blob/main/logoC.png)
+![logoC](https://github.com/Ayoub922/Ayoub922/blob/main/logoC.png | width=150)
 
 ## Web
 
