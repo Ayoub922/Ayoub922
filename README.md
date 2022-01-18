@@ -13,21 +13,21 @@
 
 ## Software
 
-<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoC.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoC.png" width="150" height="150" />
-<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoJava.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoJava.png" width="150" height="150" />
-<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPython.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPython.png" width="150" height="150" />
+<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoC.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoC.png" width="150" height="150" /> <img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoJava.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoJava.png" width="150" height="150" /> <img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPython.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPython.png" width="150" height="150" />
+
+
 
 ## Web
 
-<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoHtml.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoHtml.png" width="150" height="150" />
-<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoCss.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoCss.png" width="150" height="150" />
-<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPhp.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPhp.png" width="150" height="150" />
-<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoJs.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoJs.png" width="150" height="150" />
+<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoHtml.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoHtml.png" width="150" height="150" /> <img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoCss.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoCss.png" width="150" height="150" /> <img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPhp.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPhp.png" width="150" height="150" /> <img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoJs.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoJs.png" width="150" height="150" />
+
+
+
 
 ## Other
 
-<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPsql.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPsql.png" width="150" height="150" />
-<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoLinux.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoLinux.png" width="150" height="150" />
+<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPsql.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPsql.png" width="150" height="150" /> <img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoLinux.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoLinux.png" width="150" height="150" />
+
 
 <!---
 Ayoub922/Ayoub922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
