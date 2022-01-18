@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Ayoub922
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Ayoub S**
+
+**IT Student France**
+
+
+
+
+- 🌐 CYU University
+- 🌱 I’m currently working on a sales website
+- 👀 I’m looking for an apprenticeship for my master's degree
+
 
 <!---
 Ayoub922/Ayoub922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
