@@ -26,7 +26,7 @@
 
 ## Other
 
-<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPsql.jpg" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPsql.jpg" width="150" height="150" /> <img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoLinux.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoLinux.png" width="150" height="150" />
+<img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPsql.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoPsql.png" width="150" height="150" /> <img src="https://github.com/Ayoub922/Ayoub922/blob/main/logoLinux.png" data-canonical-src="https://github.com/Ayoub922/Ayoub922/blob/main/logoLinux.png" width="150" height="150" />
 
 
 <!---
